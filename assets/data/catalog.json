@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21 21:17:25",
+  "generated_at": "2026-06-21 21:45:49",
   "total": 195,
-  "image_count": 60,
+  "image_count": 80,
   "items": [
     {
       "id": "ww001",
@@ -915,8 +915,8 @@
       "excavation_time": "1983年",
       "excavation_place": "广东省广州市象岗山南越王墓",
       "note": "我国目前考古发现的最大西汉金印，也是唯一的帝玺。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww061.webp",
+      "has_image": true
     },
     {
       "id": "ww062",
@@ -930,8 +930,8 @@
       "excavation_time": "",
       "excavation_place": "甘肃省武威市",
       "note": "西藏正式纳入中国版图的“凉州会盟”重大历史见证地。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww062.webp",
+      "has_image": true
     },
     {
       "id": "ww063",
@@ -945,8 +945,8 @@
       "excavation_time": "",
       "excavation_place": "西藏自治区萨迦县",
       "note": "八思巴法王遗物与万卷经墙大藏经，藏文化终极宝库。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww063.webp",
+      "has_image": true
     },
     {
       "id": "ww064",
@@ -960,8 +960,8 @@
       "excavation_time": "",
       "excavation_place": "西藏自治区拉萨市",
       "note": "西藏地标，其馆藏梵文贝叶经是无价的佛教法宝。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww064.webp",
+      "has_image": true
     },
     {
       "id": "ww065",
@@ -975,8 +975,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "“法帖之祖”，中国现存最古老的文人真实手迹法帖。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww065.webp",
+      "has_image": true
     },
     {
       "id": "ww066",
@@ -990,8 +990,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "中国传统绘画的史诗级叙事画卷，体现魏晋神韵。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww066.webp",
+      "has_image": true
     },
     {
       "id": "ww067",
@@ -1005,8 +1005,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "“神龙本”兰亭序，最接近王羲之真迹的顶级摹本。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww067.webp",
+      "has_image": true
     },
     {
       "id": "ww068",
@@ -1020,8 +1020,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "初唐楷书四大家欧阳询传世行书代表杰作，笔法险峻。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww068.webp",
+      "has_image": true
     },
     {
       "id": "ww069",
@@ -1035,8 +1035,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "中国现存最古老的纸本中国画，神态各异的神作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww069.webp",
+      "has_image": true
     },
     {
       "id": "ww070",
@@ -1050,8 +1050,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "晚唐大诗人杜牧唯一传世墨宝，诗书双绝。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww070.webp",
+      "has_image": true
     },
     {
       "id": "ww071",
@@ -1065,8 +1065,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "中国工笔重彩人物画最高成就，南唐宫廷生活的写照。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww071.webp",
+      "has_image": true
     },
     {
       "id": "ww072",
@@ -1080,8 +1080,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "大青绿山水巅峰，十八岁天才画师的绝世之作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww072.webp",
+      "has_image": true
     },
     {
       "id": "ww073",
@@ -1095,8 +1095,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "中华第一神品，北宋汴京繁华市井全景风俗画卷。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww073.webp",
+      "has_image": true
     },
     {
       "id": "ww074",
@@ -1110,8 +1110,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "苏轼早期珍贵墨宝，结字隽美，饱含乡情与文气。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww074.webp",
+      "has_image": true
     },
     {
       "id": "ww075",
@@ -1125,8 +1125,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "宋代草书杰作，黄庭坚狂草艺术纵横奇崛的代表作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww075.webp",
+      "has_image": true
     },
     {
       "id": "ww076",
@@ -1140,8 +1140,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "宋四家米芾行书代表作，“风樯阵马”的书风化身。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww076.webp",
+      "has_image": true
     },
     {
       "id": "ww077",
@@ -1155,8 +1155,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "宋徽宗亲笔或领导宣和画院创作的宫廷美学代表作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww077.webp",
+      "has_image": true
     },
     {
       "id": "ww078",
@@ -1170,8 +1170,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "南宋“马一角”山水与民间欢庆风俗融合的画作代表。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww078.webp",
+      "has_image": true
     },
     {
       "id": "ww079",
@@ -1185,8 +1185,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "元代文人画南宗山水典范，富含平淡天真之趣。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww079.webp",
+      "has_image": true
     },
     {
       "id": "ww080",
@@ -1200,8 +1200,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "山水画至尊富春山居图前半段，传世文人画的灵魂。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww080.webp",
+      "has_image": true
     },
     {
       "id": "ww081",
