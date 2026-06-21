@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22 00:16:22",
+  "generated_at": "2026-06-22 00:44:43",
   "total": 195,
-  "image_count": 160,
+  "image_count": 180,
   "items": [
     {
       "id": "ww001",
@@ -2415,8 +2415,8 @@
       "excavation_time": "1955年",
       "excavation_place": "陕西省西安市半坡遗址",
       "note": "半坡遗址经典符号，神秘的人面鱼纹具有原始巫术含义。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww161.webp",
+      "has_image": true
     },
     {
       "id": "ww162",
@@ -2430,8 +2430,8 @@
       "excavation_time": "1973年",
       "excavation_place": "青海省大通县上孙家寨",
       "note": "五人一组手拉手跳舞的内壁彩绘，极为珍贵的人类早期舞蹈图录。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww162.webp",
+      "has_image": true
     },
     {
       "id": "ww163",
@@ -2445,8 +2445,8 @@
       "excavation_time": "1978年",
       "excavation_place": "山东省泰安市大汶口遗址",
       "note": "绘有神秘八角星纹的彩陶豆，研究新石器时代精神世界核心器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww163.webp",
+      "has_image": true
     },
     {
       "id": "ww164",
@@ -2460,8 +2460,8 @@
       "excavation_time": "1959年",
       "excavation_place": "山东省泰安市大汶口遗址",
       "note": "白大理石质感泥料制成的带流三足鸟形酒器，大汶口白陶巅峰。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww164.webp",
+      "has_image": true
     },
     {
       "id": "ww165",
@@ -2475,8 +2475,8 @@
       "excavation_time": "1972年",
       "excavation_place": "山东省日照市东海峪遗址",
       "note": "“薄如纸，硬如瓷，黑如漆”，史前制陶工艺的黑色奇迹。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww165.webp",
+      "has_image": true
     },
     {
       "id": "ww166",
@@ -2490,8 +2490,8 @@
       "excavation_time": "1955年",
       "excavation_place": "河南省郑州市商代遗址",
       "note": "我国迄今最早的原始青瓷完整大器，瓷器起源的重要见证。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww166.webp",
+      "has_image": true
     },
     {
       "id": "ww167",
@@ -2505,8 +2505,8 @@
       "excavation_time": "1976年",
       "excavation_place": "江苏省宜兴市周处家族墓",
       "note": "周处墓出土，神兽张口作咆哮状，越窑早期青瓷圆雕绝品。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww167.webp",
+      "has_image": true
     },
     {
       "id": "ww168",
@@ -2520,8 +2520,8 @@
       "excavation_time": "1960年",
       "excavation_place": "江苏省南京市五塘村",
       "note": "体量宏大，满饰多层覆莲花瓣并点褐斑，六朝青瓷杰作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww168.webp",
+      "has_image": true
     },
     {
       "id": "ww169",
@@ -2535,8 +2535,8 @@
       "excavation_time": "1948年",
       "excavation_place": "河北省景县封氏墓群",
       "note": "北方青瓷不二神品，佛教青莲造型与粗犷北朝风完美契合。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww169.webp",
+      "has_image": true
     },
     {
       "id": "ww170",
@@ -2550,8 +2550,8 @@
       "excavation_time": "",
       "excavation_place": "唐代巩义窑（传）",
       "note": "巩县窑隋唐白瓷绿彩代表作，釉色白中闪绿，俊秀典雅。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww170.webp",
+      "has_image": true
     },
     {
       "id": "ww171",
@@ -2565,8 +2565,8 @@
       "excavation_time": "1987年",
       "excavation_place": "陕西省扶风县法门寺地宫",
       "note": "地宫衣物账石碑明确记载的唐代皇家秘色瓷，“九秋风露”。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww171.webp",
+      "has_image": true
     },
     {
       "id": "ww172",
@@ -2580,8 +2580,8 @@
       "excavation_time": "1956年",
       "excavation_place": "湖南省长沙市铜官窑遗址",
       "note": "长沙窑釉下彩巅峰圆雕器，生动刻画西域人骑狮造型。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww172.webp",
+      "has_image": true
     },
     {
       "id": "ww173",
@@ -2595,8 +2595,8 @@
       "excavation_time": "",
       "excavation_place": "河南省宝丰县清凉寺汝窑",
       "note": "举世极为罕见的传世汝窑大樽，天青釉润如雨过天晴。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww173.webp",
+      "has_image": true
     },
     {
       "id": "ww174",
@@ -2610,8 +2610,8 @@
       "excavation_time": "",
       "excavation_place": "河北省曲阳县定窑",
       "note": "故宫博物院顶级明星瓷器，定窑白瓷塑形孩儿栩栩如生。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww174.webp",
+      "has_image": true
     },
     {
       "id": "ww175",
@@ -2625,8 +2625,8 @@
       "excavation_time": "1968年",
       "excavation_place": "陕西省西安市彬县",
       "note": "魔术般的液体物理结构，凤凰提梁，耀州窑刻花之王。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww175.webp",
+      "has_image": true
     },
     {
       "id": "ww176",
@@ -2640,8 +2640,8 @@
       "excavation_time": "",
       "excavation_place": "河南省禹州市钧窑",
       "note": "皇家传世官钧窑，底部刻有汉字数字，窑变紫霞美轮美奂。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww176.webp",
+      "has_image": true
     },
     {
       "id": "ww177",
@@ -2655,8 +2655,8 @@
       "excavation_time": "1983年",
       "excavation_place": "浙江省松阳县宋墓",
       "note": "南宋龙泉梅子青釉的最高典范，双凤耳温润如顶级美玉。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww177.webp",
+      "has_image": true
     },
     {
       "id": "ww178",
@@ -2670,8 +2670,8 @@
       "excavation_time": "1980年",
       "excavation_place": "江西省高安市元代窖藏",
       "note": "高安窖藏核心，极为罕见的元青花与釉里红完美共存大罐。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww178.webp",
+      "has_image": true
     },
     {
       "id": "ww179",
@@ -2685,8 +2685,8 @@
       "excavation_time": "1950年",
       "excavation_place": "江苏省南京市江宁区沐英墓",
       "note": "元青花三大人物故事梅瓶之一，南京博物院镇馆国宝。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww179.webp",
+      "has_image": true
     },
     {
       "id": "ww180",
@@ -2700,8 +2700,8 @@
       "excavation_time": "",
       "excavation_place": "江西省景德镇御窑",
       "note": "宣德御窑青花与釉上矾红彩结合的双色龙纹盘，极其珍罕。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww180.webp",
+      "has_image": true
     },
     {
       "id": "ww181",
