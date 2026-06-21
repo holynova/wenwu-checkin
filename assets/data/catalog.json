@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21 20:50:42",
+  "generated_at": "2026-06-21 21:17:25",
   "total": 195,
-  "image_count": 40,
+  "image_count": 60,
   "items": [
     {
       "id": "ww001",
@@ -615,8 +615,8 @@
       "excavation_time": "1986年",
       "excavation_place": "浙江省余杭县反山墓地",
       "note": "良渚玉器之首，微雕神人兽面纹象征神权与王权。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww041.webp",
+      "has_image": true
     },
     {
       "id": "ww042",
@@ -630,8 +630,8 @@
       "excavation_time": "1973年",
       "excavation_place": "浙江省余姚市河姆渡遗址",
       "note": "河姆渡文化崇鸟信仰与原始象牙微雕的代表作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww042.webp",
+      "has_image": true
     },
     {
       "id": "ww043",
@@ -645,8 +645,8 @@
       "excavation_time": "1977年",
       "excavation_place": "浙江省余姚市河姆渡遗址",
       "note": "世界上已知最早的天然生漆漆器，改写漆器起源史。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww043.webp",
+      "has_image": true
     },
     {
       "id": "ww044",
@@ -660,8 +660,8 @@
       "excavation_time": "1979年",
       "excavation_place": "山西省太原市王郭村",
       "note": "北朝壁画最高峰，传为画圣杨子华手笔，气韵生动。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww044.webp",
+      "has_image": true
     },
     {
       "id": "ww045",
@@ -675,8 +675,8 @@
       "excavation_time": "1977年",
       "excavation_place": "河北省平山县战国中山王墓",
       "note": "铁足铜身，刻有469字战国铭文，字数仅次于毛公鼎。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww045.webp",
+      "has_image": true
     },
     {
       "id": "ww046",
@@ -690,8 +690,8 @@
       "excavation_time": "1968年",
       "excavation_place": "河北省满城县陵山汉墓",
       "note": "中国首批出土完整、最为著名的金缕玉衣。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww046.webp",
+      "has_image": true
     },
     {
       "id": "ww047",
@@ -705,8 +705,8 @@
       "excavation_time": "1977年",
       "excavation_place": "河北省平山县战国中山王墓",
       "note": "战国青铜工艺奇迹，复杂的错金银四龙四凤纠结结构。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww047.webp",
+      "has_image": true
     },
     {
       "id": "ww048",
@@ -720,8 +720,8 @@
       "excavation_time": "",
       "excavation_place": "河北省正定县隆兴寺",
       "note": "即《龙藏寺碑》，楷书之祖，隶楷过渡阶段第一碑。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww048.webp",
+      "has_image": true
     },
     {
       "id": "ww049",
@@ -735,8 +735,8 @@
       "excavation_time": "",
       "excavation_place": "山西省五台山",
       "note": "纯砖石仿木结构，我国现存最宏大的纯砖无梁殿古建筑。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww049.webp",
+      "has_image": true
     },
     {
       "id": "ww050",
@@ -750,8 +750,8 @@
       "excavation_time": "",
       "excavation_place": "福建省泉州市",
       "note": "百柱殿，殿内斗拱有二十四尊飞天乐伎，极其罕见。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww050.webp",
+      "has_image": true
     },
     {
       "id": "ww051",
@@ -765,8 +765,8 @@
       "excavation_time": "",
       "excavation_place": "江苏省南京市栖霞区萧宏墓等",
       "note": "六朝陵墓石刻代表，昂首挺胸的神兽辟邪，气势奔放。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww051.webp",
+      "has_image": true
     },
     {
       "id": "ww052",
@@ -780,8 +780,8 @@
       "excavation_time": "1975年",
       "excavation_place": "河南省偃师市二里头遗址",
       "note": "“华夏第一爵”，已知中国最早的青铜礼器之一。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww052.webp",
+      "has_image": true
     },
     {
       "id": "ww053",
@@ -795,8 +795,8 @@
       "excavation_time": "1976年",
       "excavation_place": "河南省安阳市殷墟妇好墓",
       "note": "商代王室祭祀重器，因铭文“司母辛”证实属于妇好。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww053.webp",
+      "has_image": true
     },
     {
       "id": "ww054",
@@ -810,8 +810,8 @@
       "excavation_time": "1976年",
       "excavation_place": "河南省安阳市殷墟妇好墓",
       "note": "器形如双彝并联，装饰极其繁复，商代青铜器精品。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww054.webp",
+      "has_image": true
     },
     {
       "id": "ww055",
@@ -825,8 +825,8 @@
       "excavation_time": "1976年",
       "excavation_place": "河南省安阳市殷墟妇好墓",
       "note": "最早的鸮形青铜尊，战神化身，商代写实主义巅峰。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww055.webp",
+      "has_image": true
     },
     {
       "id": "ww056",
@@ -840,8 +840,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "历代帝王庙中供奉的华夏始祖造像群，国家祭祀象征。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww056.webp",
+      "has_image": true
     },
     {
       "id": "ww057",
@@ -855,8 +855,8 @@
       "excavation_time": "1986年",
       "excavation_place": "四川省广汉市三星堆遗址",
       "note": "古蜀文明通天神树，高近4米，体现独特的宇宙观。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww057.webp",
+      "has_image": true
     },
     {
       "id": "ww058",
@@ -870,8 +870,8 @@
       "excavation_time": "1986年",
       "excavation_place": "四川省广汉市三星堆遗址",
       "note": "“东方巨人”，已知同期世界最高最大的青铜人像。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww058.webp",
+      "has_image": true
     },
     {
       "id": "ww059",
@@ -885,8 +885,8 @@
       "excavation_time": "1986年",
       "excavation_place": "四川省广汉市三星堆遗址",
       "note": "古蜀王蚕丛“纵目”传说物化形态，狞厉神秘。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww059.webp",
+      "has_image": true
     },
     {
       "id": "ww060",
@@ -900,8 +900,8 @@
       "excavation_time": "2001年",
       "excavation_place": "四川省成都市金沙遗址",
       "note": "中国文化遗产标志，精工剪切的四鸟绕日纯金饰片。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww060.webp",
+      "has_image": true
     },
     {
       "id": "ww061",
