@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22 00:44:43",
+  "generated_at": "2026-06-22 01:05:52",
   "total": 195,
-  "image_count": 180,
+  "image_count": 195,
   "items": [
     {
       "id": "ww001",
@@ -2715,8 +2715,8 @@
       "excavation_time": "",
       "excavation_place": "江西省景德镇御窑",
       "note": "明成化斗彩首冠，皇家御用酒杯，杯上子母鸡图融情于景。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww181.webp",
+      "has_image": true
     },
     {
       "id": "ww182",
@@ -2730,8 +2730,8 @@
       "excavation_time": "1986年",
       "excavation_place": "浙江省余杭县反山墓地",
       "note": "（与前两批重复登录并列），国宝级史前神权第一玉大琮。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww182.webp",
+      "has_image": true
     },
     {
       "id": "ww183",
@@ -2745,8 +2745,8 @@
       "excavation_time": "1987年",
       "excavation_place": "湖北省荆门市包山二号楚墓",
       "note": "楚国漆器写实绘画巅峰，漆奁外壁展开一幅生动的车马长卷。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww183.webp",
+      "has_image": true
     },
     {
       "id": "ww184",
@@ -2760,8 +2760,8 @@
       "excavation_time": "1972年",
       "excavation_place": "湖南省长沙市马王堆汉墓",
       "note": "马王堆一号墓套棺中极其惊艳的黑地彩绘双层巨型漆棺。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww184.webp",
+      "has_image": true
     },
     {
       "id": "ww185",
@@ -2775,8 +2775,8 @@
       "excavation_time": "1972年",
       "excavation_place": "湖南省长沙市马王堆汉墓",
       "note": "汉代地府、人间、天堂神话宇宙观的大型工笔重彩丝织帛画。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww185.webp",
+      "has_image": true
     },
     {
       "id": "ww186",
@@ -2790,8 +2790,8 @@
       "excavation_time": "",
       "excavation_place": "山西省洪洞县广胜寺",
       "note": "元代极其珍罕的巨幅织锦佛帷背衬，织有百余篆书寿字。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww186.webp",
+      "has_image": true
     },
     {
       "id": "ww187",
@@ -2805,8 +2805,8 @@
       "excavation_time": "1956年",
       "excavation_place": "北京市昌平县明定陵",
       "note": "孝靖皇后大红缂丝燕居服，刺绣有一百个神态各异的嬉戏童子。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww187.webp",
+      "has_image": true
     },
     {
       "id": "ww188",
@@ -2820,8 +2820,8 @@
       "excavation_time": "",
       "excavation_place": "山西省太原市晋祠圣母殿",
       "note": "宋代写实主义雕塑神作，43尊宫廷侍女彩塑，神情千态。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww188.webp",
+      "has_image": true
     },
     {
       "id": "ww189",
@@ -2835,8 +2835,8 @@
       "excavation_time": "",
       "excavation_place": "山西省平遥县双林寺",
       "note": "中国古代悬塑与彩塑的至高结晶，千手观音神仪内敛。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww189.webp",
+      "has_image": true
     },
     {
       "id": "ww190",
@@ -2850,8 +2850,8 @@
       "excavation_time": "",
       "excavation_place": "陕西省西安市光宅寺七宝台",
       "note": "武周盛唐时期高浮雕白石造像，肌肉富有弹性，极具盛唐美。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww190.webp",
+      "has_image": true
     },
     {
       "id": "ww191",
@@ -2865,8 +2865,8 @@
       "excavation_time": "1996年",
       "excavation_place": "山东省青州市龙兴寺遗址",
       "note": "青州龙兴寺窖藏顶级佛像，透雕背光与曹衣出水服饰完美融合。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww191.webp",
+      "has_image": true
     },
     {
       "id": "ww192",
@@ -2880,8 +2880,8 @@
       "excavation_time": "1973年",
       "excavation_place": "浙江省余姚市河姆渡遗址",
       "note": "（与第一批重合单列），河姆渡先民对太阳与鸟崇拜的载体。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww192.webp",
+      "has_image": true
     },
     {
       "id": "ww193",
@@ -2895,8 +2895,8 @@
       "excavation_time": "1987年",
       "excavation_place": "陕西省扶风县法门寺地宫",
       "note": "法门寺地宫的无价密钥，精确盘点唐代皇室随葬法宝的清单石碑。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww193.webp",
+      "has_image": true
     },
     {
       "id": "ww194",
@@ -2910,8 +2910,8 @@
       "excavation_time": "1975年",
       "excavation_place": "湖北省云梦县睡虎地",
       "note": "秦代基层官员“喜”的随葬墨书竹简，第一次揭秘庞大秦律。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww194.webp",
+      "has_image": true
     },
     {
       "id": "ww195",
@@ -2925,8 +2925,8 @@
       "excavation_time": "1980年",
       "excavation_place": "江苏省扬州市邗江区甘泉山汉墓",
       "note": "东汉光武帝刘秀之子广陵王刘荆的纯金龟纽王玺，精湛汉印。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww195.webp",
+      "has_image": true
     }
   ]
 }
