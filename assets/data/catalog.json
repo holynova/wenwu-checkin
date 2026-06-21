@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21",
+  "generated_at": "2026-06-21 20:50:42",
   "total": 195,
-  "image_count": 20,
+  "image_count": 40,
   "items": [
     {
       "id": "ww001",
@@ -315,8 +315,8 @@
       "excavation_time": "",
       "excavation_place": "陕西省兴平市霍去病墓",
       "note": "“马踏匈奴”等16件大型石刻，汉代雄浑雕塑代表。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww021.webp",
+      "has_image": true
     },
     {
       "id": "ww022",
@@ -330,8 +330,8 @@
       "excavation_time": "1623年",
       "excavation_place": "陕西省西安市周至县",
       "note": "记述基督教聂斯脱利派传入中国的最古中叙双文碑刻。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww022.webp",
+      "has_image": true
     },
     {
       "id": "ww023",
@@ -345,8 +345,8 @@
       "excavation_time": "1970年",
       "excavation_place": "陕西省西安市何家村",
       "note": "契丹皮囊壶造型与大唐舞马历史的完美印证物。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww023.webp",
+      "has_image": true
     },
     {
       "id": "ww024",
@@ -360,8 +360,8 @@
       "excavation_time": "1970年",
       "excavation_place": "陕西省西安市何家村",
       "note": "唐代玉雕最高成就，具有浓郁中亚萨珊风格的来通杯。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww024.webp",
+      "has_image": true
     },
     {
       "id": "ww025",
@@ -375,8 +375,8 @@
       "excavation_time": "",
       "excavation_place": "陕西省西安市景龙观",
       "note": "天下第一名钟，唐睿宗亲自题写铭文并铸造的重器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww025.webp",
+      "has_image": true
     },
     {
       "id": "ww026",
@@ -390,8 +390,8 @@
       "excavation_time": "1956年",
       "excavation_place": "云南省晋宁县石寨山",
       "note": "汉武帝赐予滇王金印，证实古滇国历史存在的铁证。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww026.webp",
+      "has_image": true
     },
     {
       "id": "ww027",
@@ -405,8 +405,8 @@
       "excavation_time": "1954年",
       "excavation_place": "四川省成都市天回山",
       "note": "生动传神的说唱与劳作汉俑，四川汉代生活写照。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww027.webp",
+      "has_image": true
     },
     {
       "id": "ww028",
@@ -420,8 +420,8 @@
       "excavation_time": "1957年",
       "excavation_place": "四川省成都市东安山",
       "note": "击鼓说唱俑，汉代民间说唱艺术最具代表性的雕塑。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww028.webp",
+      "has_image": true
     },
     {
       "id": "ww029",
@@ -435,8 +435,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "人民音乐家聂耳创作《义勇军进行曲》时所用乐器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww029.webp",
+      "has_image": true
     },
     {
       "id": "ww030",
@@ -450,8 +450,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "红军任广林长征过草地时食用剩下的半截牛皮带。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww030.webp",
+      "has_image": true
     },
     {
       "id": "ww031",
@@ -465,8 +465,8 @@
       "excavation_time": "1992年",
       "excavation_place": "山西省曲沃县北赵村晋侯墓地",
       "note": "16枚编钟上凿刻355字铭文，记载晋侯稣受命征战。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww031.webp",
+      "has_image": true
     },
     {
       "id": "ww032",
@@ -480,8 +480,8 @@
       "excavation_time": "1890年",
       "excavation_place": "陕西省扶风县法门镇",
       "note": "西周晚期重器，海内青铜三宝之一，铭文书风端庄。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww032.webp",
+      "has_image": true
     },
     {
       "id": "ww033",
@@ -495,8 +495,8 @@
       "excavation_time": "1933年",
       "excavation_place": "安徽省寿县朱家集楚王墓",
       "note": "现存体量最大的楚国青铜圆鼎，雄放剽悍之风。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww033.webp",
+      "has_image": true
     },
     {
       "id": "ww034",
@@ -510,8 +510,8 @@
       "excavation_time": "1965年",
       "excavation_place": "湖北省江陵县望山一号墓",
       "note": "“天下第一剑”，千年不锈，铸造工艺精湛绝伦。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww034.webp",
+      "has_image": true
     },
     {
       "id": "ww035",
@@ -525,8 +525,8 @@
       "excavation_time": "1978年",
       "excavation_place": "湖北省随州市随县",
       "note": "中国古代乐器之王，一钟双音，改写世界音乐史。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww035.webp",
+      "has_image": true
     },
     {
       "id": "ww036",
@@ -540,8 +540,8 @@
       "excavation_time": "1978年",
       "excavation_place": "湖北省随州市随县",
       "note": "失蜡法铸造的最高成就，玲珑剔透令人叹为观止。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww036.webp",
+      "has_image": true
     },
     {
       "id": "ww037",
@@ -555,8 +555,8 @@
       "excavation_time": "1978年",
       "excavation_place": "湖北省随州市随县曾侯乙墓",
       "note": "楚式漆器代表作，采用透雕和彩绘刻画繁复神怪。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww037.webp",
+      "has_image": true
     },
     {
       "id": "ww038",
@@ -570,8 +570,8 @@
       "excavation_time": "1971年",
       "excavation_place": "内蒙古赤峰市三星他拉",
       "note": "中华第一龙，红山文化的核心玉器，极简神韵。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww038.webp",
+      "has_image": true
     },
     {
       "id": "ww039",
@@ -585,8 +585,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "北宋官窑传世杰作，天青釉色开片冰裂完美呈现。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww039.webp",
+      "has_image": true
     },
     {
       "id": "ww040",
@@ -600,8 +600,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "世界上最豪华的花轿，浙派朱金木雕工艺的天花板。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww040.webp",
+      "has_image": true
     },
     {
       "id": "ww041",
