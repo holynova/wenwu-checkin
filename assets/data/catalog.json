@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21 23:19:21",
+  "generated_at": "2026-06-21 23:48:05",
   "total": 195,
-  "image_count": 120,
+  "image_count": 140,
   "items": [
     {
       "id": "ww001",
@@ -1815,8 +1815,8 @@
       "excavation_time": "1976年",
       "excavation_place": "河南省安阳市殷墟妇好墓",
       "note": "俏色圆雕小玉鸟，商代玉匠巧夺天工的写生作品。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww121.webp",
+      "has_image": true
     },
     {
       "id": "ww122",
@@ -1830,8 +1830,8 @@
       "excavation_time": "1990年",
       "excavation_place": "河南省三门峡市虢国墓地",
       "note": "虢国国君大墓出土顶级玉佩，极显西周“礼乐度”仪式。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww122.webp",
+      "has_image": true
     },
     {
       "id": "ww123",
@@ -1845,8 +1845,8 @@
       "excavation_time": "1990年",
       "excavation_place": "河南省三门峡市虢国墓地",
       "note": "我国迄今发现结构最完整的西周瞑目缀玉葬玉面罩。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww123.webp",
+      "has_image": true
     },
     {
       "id": "ww124",
@@ -1860,8 +1860,8 @@
       "excavation_time": "1951年",
       "excavation_place": "河南省辉县固围村魏王墓",
       "note": "战国中晚期最大、做工最精的透雕兽面纹大型玉佩。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww124.webp",
+      "has_image": true
     },
     {
       "id": "ww125",
@@ -1875,8 +1875,8 @@
       "excavation_time": "1978年",
       "excavation_place": "湖北省随州市曾侯乙墓",
       "note": "镂空蟠螭，活环相扣，尽显曾侯乙墓随葬玉器精髓。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww125.webp",
+      "has_image": true
     },
     {
       "id": "ww126",
@@ -1890,8 +1890,8 @@
       "excavation_time": "1994年",
       "excavation_place": "江苏省徐州市狮子山楚王陵",
       "note": "我国目前出土年代最早、玉质最好、做工最精的金缕玉衣。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww126.webp",
+      "has_image": true
     },
     {
       "id": "ww127",
@@ -1905,8 +1905,8 @@
       "excavation_time": "1994年",
       "excavation_place": "江苏省徐州市狮子山楚王陵",
       "note": "枕身镶嵌精绝玉片并鎏金，极为尊贵的汉代高级葬玉。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww127.webp",
+      "has_image": true
     },
     {
       "id": "ww128",
@@ -1920,8 +1920,8 @@
       "excavation_time": "1983年",
       "excavation_place": "广东省广州市象岗山南越王墓",
       "note": "汉代微型镂空玉屏风精品，三部分榫卯拼接，玲珑剔透。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww128.webp",
+      "has_image": true
     },
     {
       "id": "ww129",
@@ -1935,8 +1935,8 @@
       "excavation_time": "1983年",
       "excavation_place": "广东省广州市象岗山南越王墓",
       "note": "南越王玉剑饰具中工艺最杰出者，高浮雕螭虎动感爆发。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww129.webp",
+      "has_image": true
     },
     {
       "id": "ww130",
@@ -1950,8 +1950,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "两端各雕一龙首的红山玉璜，构思绝妙，极为罕见。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww130.webp",
+      "has_image": true
     },
     {
       "id": "ww131",
@@ -1965,8 +1965,8 @@
       "excavation_time": "1920年代（传）",
       "excavation_place": "河南省辉县（传）",
       "note": "已知商代最大的青铜圆鼎，铭文“子龙”二字极其珍贵。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww131.webp",
+      "has_image": true
     },
     {
       "id": "ww132",
@@ -1980,8 +1980,8 @@
       "excavation_time": "宋代出土",
       "excavation_place": "陕西省宝鸡市（传）",
       "note": "曾入南宋宫廷，133字长铭记载周宣王中兴大元老尹吉甫。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww132.webp",
+      "has_image": true
     },
     {
       "id": "ww133",
@@ -1995,8 +1995,8 @@
       "excavation_time": "1959年",
       "excavation_place": "湖南省宁乡县黄材镇",
       "note": "全国唯一以写实人面作为器身主体装饰的商代青铜奇器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww133.webp",
+      "has_image": true
     },
     {
       "id": "ww134",
@@ -2010,8 +2010,8 @@
       "excavation_time": "1983年",
       "excavation_place": "湖南省宁乡县黄材镇",
       "note": "商代南方青铜大铙的顶峰，重达221.5公斤，饰象纹。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww134.webp",
+      "has_image": true
     },
     {
       "id": "ww135",
@@ -2025,8 +2025,8 @@
       "excavation_time": "1983年",
       "excavation_place": "湖南省宁乡县老粮仓",
       "note": "极其宏伟的商代打击乐器，透出南方楚地独特的象信仰。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww135.webp",
+      "has_image": true
     },
     {
       "id": "ww136",
@@ -2040,8 +2040,8 @@
       "excavation_time": "1986年",
       "excavation_place": "北京市房山区琉璃河燕国墓地",
       "note": "盖内铭文详述周王册封太保召公于燕地，实证北京建城史。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww136.webp",
+      "has_image": true
     },
     {
       "id": "ww137",
@@ -2055,8 +2055,8 @@
       "excavation_time": "1986年",
       "excavation_place": "北京市房山区琉璃河燕国墓地",
       "note": "与克盉同出，铭文互补，是研究西周燕国分封极其尊贵的史料。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww137.webp",
+      "has_image": true
     },
     {
       "id": "ww138",
@@ -2070,8 +2070,8 @@
       "excavation_time": "2000年",
       "excavation_place": "山西省曲沃县北赵村晋侯墓地",
       "note": "山西博物院镇馆之宝，第一代晋侯燮父祭祀用青铜礼器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww138.webp",
+      "has_image": true
     },
     {
       "id": "ww139",
@@ -2085,8 +2085,8 @@
       "excavation_time": "1975年",
       "excavation_place": "陕西省宝鸡市贾村镇",
       "note": "西周晚期罕见的青铜簠，内部长铭是研究周代地租重大依据。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww139.webp",
+      "has_image": true
     },
     {
       "id": "ww140",
@@ -2100,8 +2100,8 @@
       "excavation_time": "1992年",
       "excavation_place": "江苏省扬州市邗江区甘泉汉墓",
       "note": "王莽时期的现代科技既视感，我国已知最早的游标卡尺。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww140.webp",
+      "has_image": true
     },
     {
       "id": "ww141",
