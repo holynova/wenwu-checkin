@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21 21:45:49",
+  "generated_at": "2026-06-21 22:12:46",
   "total": 195,
-  "image_count": 80,
+  "image_count": 100,
   "items": [
     {
       "id": "ww001",
@@ -1215,8 +1215,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "中国书论与草书艺术的双重丰碑，千古名帖。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww081.webp",
+      "has_image": true
     },
     {
       "id": "ww082",
@@ -1230,8 +1230,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "“狂草僧”怀素艺术颠峰，中华第一狂草神作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww082.webp",
+      "has_image": true
     },
     {
       "id": "ww083",
@@ -1245,8 +1245,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "唐代宫廷仕女画杰作，细腻刻画宫怨与慵懒神情。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww083.webp",
+      "has_image": true
     },
     {
       "id": "ww084",
@@ -1260,8 +1260,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "南派山水开山之作，用披麻皴点染出江南水乡烟云。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww084.webp",
+      "has_image": true
     },
     {
       "id": "ww085",
@@ -1275,8 +1275,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "北宋三远法山水巨作，鬼斧神工的早春自然生机。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww085.webp",
+      "has_image": true
     },
     {
       "id": "ww086",
@@ -1290,8 +1290,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "台北故宫镇馆三宝之首，全景式雄浑高山最具震撼力。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww086.webp",
+      "has_image": true
     },
     {
       "id": "ww087",
@@ -1305,8 +1305,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "宋代山水由大山大水转向局部特写的艺术转型代表作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww087.webp",
+      "has_image": true
     },
     {
       "id": "ww088",
@@ -1320,8 +1320,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "描绘苏轼游赤壁的北方画派杰作，笔墨苍劲。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww088.webp",
+      "has_image": true
     },
     {
       "id": "ww089",
@@ -1335,8 +1335,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "“天下第一山水画”，繁密解索皴法演变出极致笔墨。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww089.webp",
+      "has_image": true
     },
     {
       "id": "ww090",
@@ -1350,8 +1350,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "元四家吴镇代表作，表达文人向往江湖渔隐的孤傲超越。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww090.webp",
+      "has_image": true
     },
     {
       "id": "ww091",
@@ -1365,8 +1365,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "倪瓒“一江两岸”极简疏朗风格的无上神作，意境超脱。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww091.webp",
+      "has_image": true
     },
     {
       "id": "ww092",
@@ -1380,8 +1380,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "乾隆“三希堂”之首，二十八字行书圣品，二十八字传千古。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww092.webp",
+      "has_image": true
     },
     {
       "id": "ww093",
@@ -1395,8 +1395,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "“天下第二行书”，颜真卿血泪书写的真情史诗法帖。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww093.webp",
+      "has_image": true
     },
     {
       "id": "ww094",
@@ -1410,8 +1410,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "“天下第三行书”，苏轼遭遇黄州贬谪时的千古悲歌。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww094.webp",
+      "has_image": true
     },
     {
       "id": "ww095",
@@ -1425,8 +1425,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "欧阳询唯一传世草书精品，用笔犀利，字法谨严。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww095.webp",
+      "has_image": true
     },
     {
       "id": "ww096",
@@ -1440,8 +1440,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "柳体楷书终极典范，传世仅存宋拓孤本，骨力遒劲。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww096.webp",
+      "has_image": true
     },
     {
       "id": "ww097",
@@ -1455,8 +1455,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "宋徽宗在长达11米的整幅狂草千字文，一气呵成。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww097.webp",
+      "has_image": true
     },
     {
       "id": "ww098",
@@ -1470,8 +1470,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "宋高宗赵构在建炎年间的亲笔战时书信手札。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww098.webp",
+      "has_image": true
     },
     {
       "id": "ww099",
@@ -1485,8 +1485,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "爱国诗人陆游晚年经典真迹，书法沉雄豪迈。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww099.webp",
+      "has_image": true
     },
     {
       "id": "ww100",
@@ -1500,8 +1500,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "“草圣”张旭惊天动地的狂草宏幅，神妙不可端倪。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww100.webp",
+      "has_image": true
     },
     {
       "id": "ww101",
