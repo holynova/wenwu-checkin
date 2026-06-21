@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21 22:12:46",
+  "generated_at": "2026-06-21 23:19:21",
   "total": 195,
-  "image_count": 100,
+  "image_count": 120,
   "items": [
     {
       "id": "ww001",
@@ -1515,8 +1515,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "赵体行书巅峰作，完美演绎苏轼赤壁赋的古典神韵。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww101.webp",
+      "has_image": true
     },
     {
       "id": "ww102",
@@ -1530,8 +1530,8 @@
       "excavation_time": "1979年",
       "excavation_place": "辽宁省凌源市三官甸子",
       "note": "红山文化玉器的抽象神秘杰作，具有巫术神权隐喻。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww102.webp",
+      "has_image": true
     },
     {
       "id": "ww103",
@@ -1545,8 +1545,8 @@
       "excavation_time": "1986年",
       "excavation_place": "浙江省余杭县反山墓地",
       "note": "（与第一批合并计，但官方分批单列）雕刻至臻纹饰。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww103.webp",
+      "has_image": true
     },
     {
       "id": "ww104",
@@ -1560,8 +1560,8 @@
       "excavation_time": "1986年",
       "excavation_place": "四川省广汉市三星堆遗址",
       "note": "璋身刻有古代祭祀神山、人神沟通场面的国宝级玉器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww104.webp",
+      "has_image": true
     },
     {
       "id": "ww105",
@@ -1575,8 +1575,8 @@
       "excavation_time": "1976年",
       "excavation_place": "河南省安阳市殷墟妇好墓",
       "note": "妇好墓出土最大的玉玦，盘龙卷尾造型霸气沉稳。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww105.webp",
+      "has_image": true
     },
     {
       "id": "ww106",
@@ -1590,8 +1590,8 @@
       "excavation_time": "1976年",
       "excavation_place": "河南省安阳市殷墟妇好墓",
       "note": "立体圆雕商代贵族坐姿与服饰的活化石珍品。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww106.webp",
+      "has_image": true
     },
     {
       "id": "ww107",
@@ -1605,8 +1605,8 @@
       "excavation_time": "1978年",
       "excavation_place": "湖北省随州市曾侯乙墓",
       "note": "随葬玉器极品，四节活环可折叠的多联透雕工艺奇迹。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww107.webp",
+      "has_image": true
     },
     {
       "id": "ww108",
@@ -1620,8 +1620,8 @@
       "excavation_time": "1953年",
       "excavation_place": "湖南省长沙市杨家山",
       "note": "楚玉巅峰作，龙凤交缠，游丝毛雕工艺绝伦。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww108.webp",
+      "has_image": true
     },
     {
       "id": "ww109",
@@ -1635,8 +1635,8 @@
       "excavation_time": "1969年",
       "excavation_place": "河北省定州市北陵头村中山穆王墓",
       "note": "已知中国最早的玉雕座屏，满雕西王母与神话异兽。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww109.webp",
+      "has_image": true
     },
     {
       "id": "ww110",
@@ -1650,8 +1650,8 @@
       "excavation_time": "1983年",
       "excavation_place": "广东省广州市象岗山南越王墓",
       "note": "南越王墓出土玉璧之冠，构图极其优美的镂空大璧。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww110.webp",
+      "has_image": true
     },
     {
       "id": "ww111",
@@ -1665,8 +1665,8 @@
       "excavation_time": "1983年",
       "excavation_place": "广东省广州市象岗山南越王墓",
       "note": "极罕见的犀角造型玉杯，展现西汉圆雕微雕最高水准。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww111.webp",
+      "has_image": true
     },
     {
       "id": "ww112",
@@ -1680,8 +1680,8 @@
       "excavation_time": "1983年",
       "excavation_place": "广东省广州市象岗山南越王墓",
       "note": "极富动感的汉代韘形玉佩（心形佩），线条行云流水。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww112.webp",
+      "has_image": true
     },
     {
       "id": "ww113",
@@ -1695,8 +1695,8 @@
       "excavation_time": "",
       "excavation_place": "",
       "note": "极为罕见的史前玉双联璧，玉质古拙，造型奇特。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww113.webp",
+      "has_image": true
     },
     {
       "id": "ww114",
@@ -1710,8 +1710,8 @@
       "excavation_time": "1976年",
       "excavation_place": "河南省安阳市殷墟妇好墓",
       "note": "商代玉凤的唯美绝作，造型神似甲骨文中的“凤”字。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww114.webp",
+      "has_image": true
     },
     {
       "id": "ww115",
@@ -1725,8 +1725,8 @@
       "excavation_time": "1992年",
       "excavation_place": "山西省曲沃县北赵村晋侯墓地",
       "note": "由204件玉器组成的宏大佩饰，西周顶级玉佩仪轨。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww115.webp",
+      "has_image": true
     },
     {
       "id": "ww116",
@@ -1740,8 +1740,8 @@
       "excavation_time": "1988年",
       "excavation_place": "河南省三门峡市虢国墓地",
       "note": "虢国国君夫人顶级奢华组玉佩，包含数以百计细小玉件。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww116.webp",
+      "has_image": true
     },
     {
       "id": "ww117",
@@ -1755,8 +1755,8 @@
       "excavation_time": "1969年",
       "excavation_place": "河北省定州市陵头村汉墓",
       "note": "（指满城/定州汉墓并列玉屏），极精绝之东王公透雕。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww117.webp",
+      "has_image": true
     },
     {
       "id": "ww118",
@@ -1770,8 +1770,8 @@
       "excavation_time": "",
       "excavation_place": "山东省日照市两城镇（传）",
       "note": "龙山文化尖端玉钺，上有极细微刻的神人兽面变形纹。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww118.webp",
+      "has_image": true
     },
     {
       "id": "ww119",
@@ -1785,8 +1785,8 @@
       "excavation_time": "1986年",
       "excavation_place": "浙江省余杭县反山墓地",
       "note": "唯一的良渚“玉钺王”，带有完整的神徽与端饰。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww119.webp",
+      "has_image": true
     },
     {
       "id": "ww120",
@@ -1800,8 +1800,8 @@
       "excavation_time": "1975年",
       "excavation_place": "河南省偃师市二里头遗址",
       "note": "二里头文化体量最大的玉刀，上刻精密网格纹与七孔。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww120.webp",
+      "has_image": true
     },
     {
       "id": "ww121",
