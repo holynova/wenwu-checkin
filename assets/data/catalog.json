@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21 23:48:05",
+  "generated_at": "2026-06-22 00:16:22",
   "total": 195,
-  "image_count": 140,
+  "image_count": 160,
   "items": [
     {
       "id": "ww001",
@@ -2115,8 +2115,8 @@
       "excavation_time": "1974年",
       "excavation_place": "湖北省武汉市黄陂区盘龙城遗址",
       "note": "商代早期青铜第一巨戈，彰显商王朝对南方边疆控制力。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww141.webp",
+      "has_image": true
     },
     {
       "id": "ww142",
@@ -2130,8 +2130,8 @@
       "excavation_time": "1933年",
       "excavation_place": "安徽省寿县朱家集楚王墓",
       "note": "（与第一批目录重合单列），安徽博物院头号国宝楚器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww142.webp",
+      "has_image": true
     },
     {
       "id": "ww143",
@@ -2145,8 +2145,8 @@
       "excavation_time": "1955年",
       "excavation_place": "安徽省寿县蔡侯墓",
       "note": "吴王光（阖闾）为其女叔姬出嫁蔡侯特制的青铜大鉴媵器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww143.webp",
+      "has_image": true
     },
     {
       "id": "ww144",
@@ -2160,8 +2160,8 @@
       "excavation_time": "1955年",
       "excavation_place": "安徽省寿县蔡侯墓",
       "note": "蔡侯申墓出土最大的青铜礼器，彰显春秋诸侯高规仪轨。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww144.webp",
+      "has_image": true
     },
     {
       "id": "ww145",
@@ -2175,8 +2175,8 @@
       "excavation_time": "1968年",
       "excavation_place": "河北省满城县陵山汉墓",
       "note": "四件一组的坐地铜豹，错金银配红玛瑙，汉代写实巨作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww145.webp",
+      "has_image": true
     },
     {
       "id": "ww146",
@@ -2190,8 +2190,8 @@
       "excavation_time": "1968年",
       "excavation_place": "河北省满城县陵山汉墓",
       "note": "汉代极其罕见的超级巨型冶铁大锅，反映汉代强盛的冶铁业。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww146.webp",
+      "has_image": true
     },
     {
       "id": "ww147",
@@ -2205,8 +2205,8 @@
       "excavation_time": "",
       "excavation_place": "北宋开封大晟府遗物",
       "note": "宋徽宗亲自下令制定的宣和“大晟新乐”唯一传世编钟标准器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww147.webp",
+      "has_image": true
     },
     {
       "id": "ww148",
@@ -2220,8 +2220,8 @@
       "excavation_time": "",
       "excavation_place": "广东省广州市越秀山镇海楼旧藏",
       "note": "我国现存体量最大、保存最完整的古代四级阶梯式铜漏壶刻漏。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww148.webp",
+      "has_image": true
     },
     {
       "id": "ww149",
@@ -2235,8 +2235,8 @@
       "excavation_time": "",
       "excavation_place": "湖南省宁乡县（传）",
       "note": "极为传奇的商代南方青铜杰作，双羊联体造型神妙绝伦。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww149.webp",
+      "has_image": true
     },
     {
       "id": "ww150",
@@ -2250,8 +2250,8 @@
       "excavation_time": "咸丰年间",
       "excavation_place": "山东省寿张县梁山",
       "note": "“梁山七器”之一，唯一的留在国内的大保召公巨型方鼎。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww150.webp",
+      "has_image": true
     },
     {
       "id": "ww151",
@@ -2265,8 +2265,8 @@
       "excavation_time": "1976年",
       "excavation_place": "陕西省扶风县庄白村",
       "note": "（与第一批重合单列），青铜微雕与西周史料价值连城。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww151.webp",
+      "has_image": true
     },
     {
       "id": "ww152",
@@ -2280,8 +2280,8 @@
       "excavation_time": "1816年",
       "excavation_place": "陕西省宝鸡市虢川司",
       "note": "（与第一批重合单列），晚清三大青铜重器之一。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww152.webp",
+      "has_image": true
     },
     {
       "id": "ww153",
@@ -2295,8 +2295,8 @@
       "excavation_time": "民国初年",
       "excavation_place": "甘肃省礼县天水一带",
       "note": "器身铸有百字铭文，字形如石鼓文，秦人早期重大史料。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww153.webp",
+      "has_image": true
     },
     {
       "id": "ww154",
@@ -2310,8 +2310,8 @@
       "excavation_time": "1977年",
       "excavation_place": "河北省平山县中山王墓",
       "note": "（与第一批重合单列），中山国悲壮历史的书写者。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww154.webp",
+      "has_image": true
     },
     {
       "id": "ww155",
@@ -2325,8 +2325,8 @@
       "excavation_time": "1978年",
       "excavation_place": "湖北省随州市随县曾侯乙墓",
       "note": "（与第一批重合单列），华夏礼乐文化的至高神重器。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww155.webp",
+      "has_image": true
     },
     {
       "id": "ww156",
@@ -2340,8 +2340,8 @@
       "excavation_time": "1978年",
       "excavation_place": "湖北省随州市随县曾侯乙墓",
       "note": "（与第一批重合单列），失蜡铸造镂空艺术的极限。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww156.webp",
+      "has_image": true
     },
     {
       "id": "ww157",
@@ -2355,8 +2355,8 @@
       "excavation_time": "1965年",
       "excavation_place": "湖北省江陵县望山楚墓",
       "note": "（与第一批重合单列），天下第一冷兵器，剑气如霜。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww157.webp",
+      "has_image": true
     },
     {
       "id": "ww158",
@@ -2370,8 +2370,8 @@
       "excavation_time": "1978年",
       "excavation_place": "河南省临汝县阎村",
       "note": "（与第一批重合单列），中国画画祖，原始彩陶最高峰。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww158.webp",
+      "has_image": true
     },
     {
       "id": "ww159",
@@ -2385,8 +2385,8 @@
       "excavation_time": "1976年",
       "excavation_place": "河北省武安县磁山遗址",
       "note": "磁山文化核心标准器，中国新石器时代早期陶器的标本。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww159.webp",
+      "has_image": true
     },
     {
       "id": "ww160",
@@ -2400,8 +2400,8 @@
       "excavation_time": "1973年",
       "excavation_place": "甘肃省秦安县大地湾遗址",
       "note": "大地湾文化珍宝，将人体雕塑与实用陶瓶完美结合的母系神作。",
-      "image": "assets/images/placeholder.webp",
-      "has_image": false
+      "image": "assets/images/ww160.webp",
+      "has_image": true
     },
     {
       "id": "ww161",
