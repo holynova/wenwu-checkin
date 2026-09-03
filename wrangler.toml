@@ -1,0 +1,10 @@
+name = "wenwu-checkin"
+compatibility_date = "2026-09-04"
+workers_dev = false
+
+[assets]
+directory = "."
+
+[[routes]]
+pattern = "wenwu-checkin.xiaosang.cc"
+custom_domain = true
