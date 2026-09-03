@@ -1,0 +1,6 @@
+.git
+.git/**
+.playwright-cli
+.playwright-cli/**
+.wrangler
+.wrangler/**
