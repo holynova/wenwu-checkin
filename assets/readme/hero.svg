@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="360" viewBox="0 0 1200 360"
+     role="img" aria-labelledby="title desc">
+  <title id="title">文物打卡 — 195 件禁止出境展览文物移动端图鉴</title>
+  <desc id="desc">暖纸底标题：文物打卡，副标题三批目录，一册在手；右侧是青铜鼎简笔画与朱红打卡印章，印文是已打卡。</desc>
+
+  <rect width="1200" height="360" rx="26" fill="#f5efe4"/>
+
+  <g id="paper-decor" opacity="0.5" stroke="#e5dcc8" stroke-width="1">
+    <path d="M0 90 H1200 M0 180 H1200 M0 270 H1200"/>
+  </g>
+
+  <g id="title-block" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="56" y="62" font-size="19" letter-spacing="3" fill="#6b5d45">禁止出境展览文物 · CULTURAL RELICS CHECK-IN</text>
+    <text x="56" y="128" font-size="62" font-weight="700" fill="#2b2118">文物打卡</text>
+    <text x="56" y="168" font-size="23" fill="#4a3f30">WENWU CHECK-IN — 三批目录，一册在手</text>
+    <text x="56" y="204" font-size="19" fill="#6b5d45">195 件禁止出境展览文物，移动端可搜、可筛、可打卡。</text>
+    <g id="chips" font-size="18" fill="#2b2118" text-anchor="middle">
+      <g><rect x="56" y="238" width="108" height="36" rx="18" fill="#fdfaf3" stroke="#d8cdb4" stroke-width="1.5"/><text x="110" y="262">195 件</text></g>
+      <g><rect x="176" y="238" width="126" height="36" rx="18" fill="#fdfaf3" stroke="#d8cdb4" stroke-width="1.5"/><text x="239" y="262">三批目录</text></g>
+      <g><rect x="314" y="238" width="126" height="36" rx="18" fill="#fdfaf3" stroke="#d8cdb4" stroke-width="1.5"/><text x="377" y="262">59 馆藏</text></g>
+      <g><rect x="452" y="238" width="126" height="36" rx="18" fill="#fdfaf3" stroke="#d8cdb4" stroke-width="1.5"/><text x="515" y="262">全部配图</text></g>
+    </g>
+  </g>
+
+  <g id="ding-diagram" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="820" y="40" font-size="18" fill="#6b5d45">后母戊鼎 · 商代 · 中国国家博物馆</text>
+    <g id="ding" transform="translate(880 200)" stroke="#3d5a4c" stroke-width="4" fill="#5d7f6e">
+      <path d="M-70 -60 L-78 -88 L-58 -88 L-52 -60 Z" fill="#5d7f6e"/>
+      <path d="M70 -60 L78 -88 L58 -88 L52 -60 Z" fill="#5d7f6e"/>
+      <rect x="-84" y="-60" width="168" height="14" rx="4" fill="#4a6b5c"/>
+      <path d="M-78 -46 L78 -46 L66 30 L-66 30 Z" fill="#5d7f6e"/>
+      <path d="M-78 -46 L78 -46 L74 -28 L-74 -28 Z" fill="#4a6b5c"/>
+      <g stroke="#d8cdb4" stroke-width="2.5" fill="none">
+        <path d="M-52 -18 h28 M-52 -8 h28 M24 -18 h28 M24 -8 h28"/>
+        <circle cx="0" cy="-13" r="8"/>
+      </g>
+      <rect x="-58" y="30" width="16" height="46" rx="4" fill="#4a6b5c"/>
+      <rect x="-8" y="30" width="16" height="46" rx="4" fill="#4a6b5c"/>
+      <rect x="42" y="30" width="16" height="46" rx="4" fill="#4a6b5c"/>
+      <rect x="-72" y="76" width="144" height="10" rx="4" fill="#6b5d45" stroke="#8a7a5c"/>
+    </g>
+    <g id="seal" transform="translate(1010 110) rotate(8)">
+      <rect x="-52" y="-52" width="104" height="104" rx="10" fill="none" stroke="#b03a2e" stroke-width="5"/>
+      <text x="0" y="-6" font-size="30" font-weight="700" fill="#b03a2e" text-anchor="middle">已打卡</text>
+      <text x="0" y="32" font-size="19" fill="#b03a2e" text-anchor="middle">✓ WENWU</text>
+    </g>
+    <g id="batch-bars" font-size="17">
+      <text x="880" y="322" fill="#4a3f30" text-anchor="middle">第一批 64 · 第二批 37 · 第三批 94</text>
+      <g>
+        <rect x="726" y="332" width="308" height="12" rx="6" fill="#e5dcc8"/>
+        <rect x="726" y="332" width="101" height="12" rx="6" fill="#5d7f6e"/>
+        <rect x="827" y="332" width="58" height="12" fill="#b08d3e"/>
+        <rect x="885" y="332" width="149" height="12" fill="#b03a2e"/>
+      </g>
+    </g>
+  </g>
+</svg>
